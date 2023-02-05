@@ -1,5 +1,8 @@
 ## Introduction
-- This product (1) extracts and classifies imageries and (2) classifies sentiments for Renaissance poems as well as modern poems written in English.
+- This product (1) extracts and classifies imageries and (2) classifies sentiments for Renaissance poems written in English.
+
+## Procedure
+- 
 
 ## Guide
 - 
