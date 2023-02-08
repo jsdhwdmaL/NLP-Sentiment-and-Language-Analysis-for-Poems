@@ -12,7 +12,9 @@
 ## Guide:
 - ...
 ## Sources:
-### Preprocessing:
+### Raw Dataset
+- https://github.com/AaronJny/poetry_generate/tree/master/origin_data
+### Preprocessing
 - https://github.com/jiaeyan/Jiayan
 ### Parsing
 - https://github.com/KoichiYasuoka/SuPar-Kanbun
