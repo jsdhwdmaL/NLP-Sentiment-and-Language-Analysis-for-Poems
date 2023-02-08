@@ -1,5 +1,5 @@
 ## Introduction
-- ...
+- This product (1) extracts and classifies imageries and (2) classifies sentiments for classical Chinese poems in Tang Dynasty written in English.
 ## Procedure
 1. Train raw data using feature engineering
 2. Use SuPar-Kanbun to extract dependency parses
