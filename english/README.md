@@ -15,6 +15,8 @@
 - 
 
 ## Sources:
+### Raw Dataset:
+- https://www.kaggle.com/ultrajack/modern-renaissance-poetry
 ### Preprocessing:
 - https://builtin.com/machine-learning/nlp-machine-learning
 - https://studymachinelearning.com/text-preprocessing-removal-of-punctuations/
