@@ -10,7 +10,7 @@
 7. Add the number to feature engineering
 8. Compare the model accuracy before and after the information of imagery sentiment
 ## Guide:
-- ...
+- Implement the "processing.py" to raw poetry data.
 ## Sources:
 ### Raw Dataset
 - https://github.com/AaronJny/poetry_generate/tree/master/origin_data
