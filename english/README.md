@@ -12,7 +12,7 @@
 8. Compare the model accuracy before and after the information of imagery sentiment
 
 ## Guide
-- Implement "preprocessing.py"
+- Implement "processing.ipynb" on raw data to do data analysis
 
 ## Sources:
 ### Raw Dataset:
