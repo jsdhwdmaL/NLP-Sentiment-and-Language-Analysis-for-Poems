@@ -13,6 +13,7 @@
 
 ## Guide
 - Implement "processing.ipynb" on raw data to do data analysis
+- Extract dependency parses
 
 ## Sources:
 ### Raw Dataset:
