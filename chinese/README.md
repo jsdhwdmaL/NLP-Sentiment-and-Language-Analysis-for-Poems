@@ -9,6 +9,8 @@
 6. Calculate the number of words in each class
 7. Add the number to feature engineering
 8. Compare the model accuracy before and after the information of imagery sentiment
+## Tools
+
 ## Guide:
 - Implement the "processing.py" to raw poetry data.
 ## Sources:
