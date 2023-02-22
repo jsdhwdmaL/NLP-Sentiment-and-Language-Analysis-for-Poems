@@ -15,6 +15,8 @@
 - Implement "processing.ipynb" on raw data to do data analysis
 - Extract dependency parses
 
+## Tools Used
+- 
 ## Sources:
 ### Raw Dataset:
 - https://www.kaggle.com/ultrajack/modern-renaissance-poetry
