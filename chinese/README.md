@@ -10,7 +10,8 @@
 7. Add the number to feature engineering
 8. Compare the model accuracy before and after the information of imagery sentiment
 ## Tools
-
+- Jiayan
+- SuPar-Kanbun
 ## Guide:
 - Implement the "processing.py" to raw poetry data.
 ## Sources:
