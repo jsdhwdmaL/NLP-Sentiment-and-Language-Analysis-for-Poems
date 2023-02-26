@@ -16,7 +16,8 @@
 - Extract dependency parses
 
 ## Tools Used
-- 
+- NLTK
+- Stanford CoreNLP
 ## Sources:
 ### Raw Dataset:
 - https://www.kaggle.com/ultrajack/modern-renaissance-poetry
