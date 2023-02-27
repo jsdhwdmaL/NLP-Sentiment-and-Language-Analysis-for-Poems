@@ -7,3 +7,4 @@ This project aims to classify sentiment and extract imageries in poetry.
 
 ## Machine Learning Models
 - Random Forest
+- Multinomial Naïve Bayes
