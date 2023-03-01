@@ -13,6 +13,7 @@
 - Jiayan
   - Yan, J. (2019). 甲言 Jiayan. GitHub. Retrieved November 2, 2022, from https://github.com/jiaeyan/Jiayan
 - SuPar-Kanbun
+  - Koichi Yasuoka, Christian Wittern, Tomohiko Morioka, Takumi Ikeda, Naoki Yamazaki, Yoshihiro Nikaido, Shingo Suzuki, Shigeki Moro, Kazunori Fujita. (2022). Designing Universal Dependencies for Classical Chinese and Its Application. Journal of Information Processing Society of Japan, 63(2), 355-363.
 ## Guide:
 - Implement the "processing.py" to raw poetry data.
 ## Sources:
