@@ -11,6 +11,7 @@
 8. Compare the model accuracy before and after the information of imagery sentiment
 ## Tools
 - Jiayan
+  - Yan, J. (2019). 甲言 Jiayan. GitHub. Retrieved November 2, 2022, from https://github.com/jiaeyan/Jiayan
 - SuPar-Kanbun
 ## Guide:
 - Implement the "processing.py" to raw poetry data.
