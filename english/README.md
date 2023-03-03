@@ -19,6 +19,7 @@
 - NLTK
     - Bird, Steven, Edward Loper and Ewan Klein. (2009). Natural Language Processing with Python. O’Reilly Media Inc.
 - Stanford CoreNLP
+    - Manning, Christopher D., Mihai Surdeanu, John Bauer, Jenny Finkel, Steven J. Bethard, and David McClosky. (2014). The Stanford CoreNLP Natural Language Processing Toolkit. Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics: System Demonstrations, pp. 55-60.
 ## Sources:
 ### Raw Dataset:
 - https://www.kaggle.com/ultrajack/modern-renaissance-poetry
